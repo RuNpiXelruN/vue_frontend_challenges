@@ -2,7 +2,7 @@
     <transition name="fade" appear>
     <div class="identitii-wrapper">
         <div class="inner-wrapper">
-            <h1>Identitii Frontend Challenges</h1>
+            <h1>Frontend Challenges</h1>
             <h3>by Justin :)</h3>
             <div class="challenges-wrapper">
                 <router-link tag="v-btn" class="info" :to="{name: 'AttributeForm'}">Attribute Selection Form</router-link>

@@ -2,7 +2,7 @@
     <transition name="fade" appear>
     <div class="ping-pong-wrapper">
         <router-link tag="v-btn" class="blue accent-3 back-btn v-btn--outline v-btn--depressed blue--text text--accent-3" to="/">Home</router-link>
-        <h1 class="ping-pong-heading">Identitii - Ping Pong</h1>
+        <h1 class="ping-pong-heading">Ping Pong Challenge</h1>
         <v-btn color="blue accent-1 white--text" @click="updatePingPong">Ping Pong</v-btn>
         <h2 class="pingpong">{{ pingPong | capitalize }}</h2>
     </div>

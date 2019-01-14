@@ -1,4 +1,4 @@
-# Identitii Frontend Challenges
+# Frontend Challenges
 
 > A Vue.js project
 

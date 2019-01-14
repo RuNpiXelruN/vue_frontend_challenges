@@ -6,7 +6,7 @@
                     <v-layout row justify-start>
                         <router-link tag="v-btn" class="blue accent-3 back-btn v-btn--outline v-btn--depressed blue--text text--accent-3" to="/">Home</router-link>
                     </v-layout>
-                    <h1 class="form-component-h1">Identitii - Attribute Picker Form</h1>
+                    <h1 class="form-component-h1">Form - Attribute Picker</h1>
                     <div class="form-info-wrapper">
                         <h3 class="form-heading">YOUR SHARED DETAILS</h3>
                         <p class="form-info">For optimal speed of settlement, the following details about you will be shared with parties in the transaction.</p>
